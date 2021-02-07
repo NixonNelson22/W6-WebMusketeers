@@ -1,0 +1,62 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 31/05/2020 03:44
+  	*/
+
+@font-face {
+  font-family: "Flaticon";
+  src: url("../fonts/Flaticon.eot");
+  src: url("../fonts/Flaticond41d.eot?#iefix") format("embedded-opentype"),
+       url("../fonts/Flaticon.woff2") format("woff2"),
+       url("../fonts/Flaticon.woff") format("woff"),
+       url("../fonts/Flaticon.ttf") format("truetype"),
+       url("../fonts/Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("../fonts/Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {
+  font-family: Flaticon;
+  font-style: normal;
+}
+
+.flaticon-rooster:before { content: "\f100"; }
+.flaticon-cow-head-outline:before { content: "\f101"; }
+.flaticon-cow-head:before { content: "\f102"; }
+.flaticon-harvest:before { content: "\f103"; }
+.flaticon-combine-harvester:before { content: "\f104"; }
+.flaticon-heavy-vehicle:before { content: "\f105"; }
+.flaticon-cauliflower:before { content: "\f106"; }
+.flaticon-up-arrow:before { content: "\f107"; }
+.flaticon-down-arrow:before { content: "\f108"; }
+.flaticon-duck:before { content: "\f109"; }
+.flaticon-null:before { content: "\f10a"; }
+.flaticon-pistachio:before { content: "\f10b"; }
+.flaticon-placeholder:before { content: "\f10c"; }
+.flaticon-grain:before { content: "\f10d"; }
+.flaticon-greenhouse:before { content: "\f10e"; }
+.flaticon-hen:before { content: "\f10f"; }
+.flaticon-chainsaw:before { content: "\f110"; }
+.flaticon-carrot:before { content: "\f111"; }
+.flaticon-fish:before { content: "\f112"; }
+.flaticon-field:before { content: "\f113"; }
+.flaticon-butterfly:before { content: "\f114"; }
+.flaticon-boot:before { content: "\f115"; }
+.flaticon-fence:before { content: "\f116"; }
+.flaticon-farmer:before { content: "\f117"; }
+.flaticon-beetroot:before { content: "\f118"; }
+.flaticon-barrel:before { content: "\f119"; }
+.flaticon-cow:before { content: "\f11a"; }
+.flaticon-meat:before { content: "\f11b"; }
+.flaticon-corn:before { content: "\f11c"; }
+.flaticon-cotton:before { content: "\f11d"; }
+.flaticon-hose:before { content: "\f11e"; }
+.flaticon-null-1:before { content: "\f11f"; }
