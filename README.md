@@ -4,7 +4,7 @@
 1. front-end
 	- 80 % of the front end has been done .
 2. back-end 
-	- 20% of the backend has been done. 
+	- 20% of the back-end has been done. 
 3. ML model
 	- 10% of progress has been reached.
 ### Future work 
@@ -12,7 +12,7 @@
 	- data acquisition has to be automated.
 	- data pre-processing has to be improved .
 	- data processing , data aggregation, and labeling of data has to be done .
-- integration of twilio , rasa chatbot, grafana has to be done .
+- integration of Twilio , rasa chat-bot, grafana has to be done .
 - database has to be added.
 	- database for large dataset has to be added.
 	- postgres database integration in spring boot has to be done.
